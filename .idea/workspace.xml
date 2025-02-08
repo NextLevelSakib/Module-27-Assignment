@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a98770a0-5c29-49f1-83df-902d8fed997d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/Layout/layout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Blog.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/BlogForBlogPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/ContactForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CrudComponent/BlogCreate.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CrudComponent/BlogMenu.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CrudComponent/BlogRead.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CrudComponent/BlogUpdate.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CrudComponent/ServiceCreate.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CrudComponent/ServiceMenu.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CrudComponent/ServiceRead.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CrudComponent/ServiceUpdate.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CrudComponent/SubmitButtonForBlog.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CrudComponent/SubmitButtonForService.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CrudComponent/TeamCreate.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CrudComponent/TeamMenu.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CrudComponent/TeamRead.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CrudComponent/TeamUpdate.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CrudComponent/createComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/DashboardComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/DashboardMenu.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Loading.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Menu.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/OTPVerify.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/PrivateRoute.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Slider.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/SubmitButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/aboutSection.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/serviceSection.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/teamSection.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/helper/helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/BlogPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/CrudSection/BlogCreatePage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/CrudSection/BlogPage_CRUD.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/CrudSection/BlogReadPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/CrudSection/BlogUpdatePage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/CrudSection/ProductReadPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/CrudSection/ServiceCreatePage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/CrudSection/ServicePage_CRUD.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/CrudSection/ServiceUpdatePage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/CrudSection/TeamCreatePage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/CrudSection/TeamPage_CRUD.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/CrudSection/TeamUpdatePage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/LoginPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/aboutPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/contactPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/dashboard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/homePage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/servicePage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/verifyPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/store/BlogStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/store/CrudBlogStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/store/ServiceStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/store/SliderStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/store/UserStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/controllers/BlogController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/controllers/BlogControllerForDashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/controllers/ServiceController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/controllers/Slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/controllers/SliderController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/controllers/TeamMemberController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/controllers/UserController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/models/BlogModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/models/ServiceModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/models/SliderModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/models/TeamMemberModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/models/UserModel.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2sUFURrglKfk6U8PskuRGBrYqsG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Coding Performance/AssignMent's/Module-27 Live Test&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Settings.JavaScript&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.3.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Coding Performance\AssignMent's\Module-27-Assignment\client\src\assets\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Coding Performance\AssignMent's\Module-27-Assignment\client\src\components\CrudComponent" />
+      <recent name="F:\Coding Performance\AssignMent's\Module-27-Assignment\client\src\pages\CrudSection" />
+      <recent name="F:\Coding Performance\AssignMent's\Module-27-Assignment\client\src\pages" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a98770a0-5c29-49f1-83df-902d8fed997d" name="Changes" comment="" />
+      <created>1738502262966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738502262966</updated>
+      <workItem from="1738502264729" duration="395000" />
+      <workItem from="1738502686694" duration="540000" />
+      <workItem from="1738503289647" duration="4366000" />
+      <workItem from="1738507730611" duration="17937000" />
+      <workItem from="1738569784994" duration="23328000" />
+      <workItem from="1738674264943" duration="5268000" />
+      <workItem from="1738770144991" duration="1378000" />
+      <workItem from="1738833427292" duration="6121000" />
+      <workItem from="1738851621615" duration="2338000" />
+      <workItem from="1738858081976" duration="36000" />
+      <workItem from="1738858124767" duration="100000" />
+      <workItem from="1738859791220" duration="17000" />
+      <workItem from="1738859871136" duration="14000" />
+      <workItem from="1738861308516" duration="5000" />
+      <workItem from="1738926879376" duration="43651000" />
+      <workItem from="1739025914042" duration="6000" />
+      <workItem from="1739026060555" duration="99000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
